@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "request": "2.81.0",
+    "discord-eco": "0.0.10",
+    "moment": "2.19.4"
   }
 }
