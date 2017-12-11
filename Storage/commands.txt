@@ -1,0 +1,7 @@
+Commands:
+The prefix for this bot is $
+
+help - returns the commands.
+ping - returns the ping of the server.
+balance - returns your bank balance
+work - let's you work for your money

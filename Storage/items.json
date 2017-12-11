@@ -1,0 +1,29 @@
+{
+  "MagnaFlow System":{
+    "name": "MagnaFlow System",
+    "type": "Exhausts",
+    "price": "$208",
+    "desc": "This is a Magnaflow Exhaust System, it adds 10hp"
+  },
+  "Borla System":{
+    "name": "Borla System",
+    "type": "Exhausts",
+    "price": "$676",
+    "desc": "This is a Borla Exhaust System, it adds 15hp"
+  },
+  "Gibson System": {
+    "name": "Gibson System",
+    "type": "Exhausts",
+    "price": "$578",
+    "desc": "This is a Gibson Exhaust System, it adds 10hp"
+  },
+
+
+  "Sparco": {
+    "name": "Sparco",
+    "type": "Rims",
+    "price": "$145",
+    "desc": "some good looking Sparco rims"
+  }
+
+}
