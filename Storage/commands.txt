@@ -1,5 +1,5 @@
 Commands:
-The prefix for this bot is $
+The prefix for this bot is !
 
 help - returns the commands.
 ping - returns the ping of the server.
